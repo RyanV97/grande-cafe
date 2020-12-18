@@ -45,6 +45,7 @@ h1 {
 .navbar li a {
     display: block;
     color: white;
+    padding-left: 6px;
     margin-bottom: 15px;
     text-decoration: none;
 }
